@@ -1,0 +1,9 @@
+# The-Battle-of-Neighborhoods
+We are going to explore the 2nd largest country(by population) capital that is DELHI.I am going to find out which is the best place start a business of chinese restaurant in delhi.And in exploring the delhi neighbourhoods we will get much more information than that.First i want to tell you about Delhi so in people generally speak hindi but english is also a popular language among private firm and government agencies.In delhi there is diverse culture and people from all over india come here for different purposes.
+
+Question that can be asked from available datasets?
+1.which is best location for a chinese cuisine restaurant?
+2.which area have maximum no of chinese cuisine restaurant?
+3.Which all areas have less number of resturant ?
+4.Which is the best place to stay if I prefer Chinese Cuisine ?
+5.What places are have best restaurant in New Delhi?
