@@ -1,0 +1,6 @@
+# The-Battle-of-Neighborhoods
+for this problem we need the data of : All the restaurants of delhi with their rating,id,adress,latitude and longitude value.
+source of data:  Zomato kaggel dataset : "https://www.kaggle.com/shrutimehta/zomato-restaurants-data"
+This data contain all the required information
+Data source : Fousquare API : "https://developer.foursquare.com/"
+Description : By using this api we will get all the venues in each neighborhood.
